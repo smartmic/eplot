@@ -1,4 +1,4 @@
-;;; eplot.el --- Manage and Edit Wordpress Posts -*- lexical-binding: t -*-
+;;; eplot.el --- Manage and Edit Wordpress Posts -*- lexical-binding: nil -*-
 
 ;; Copyright (C) 2024 Free Software Foundation, Inc.
 
